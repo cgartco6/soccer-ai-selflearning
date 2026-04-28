@@ -1,0 +1,16 @@
+men:
+  - id: 39  # Premier League
+  - id: 140 # La Liga
+  - id: 78  # Bundesliga
+women:
+  - id: 42  # FA WSL (example)
+  - id: 57  # Frauen-Bundesliga
+junior:
+  - id: 115 # UEFA Youth League
+uefa:
+  - id: 2   # Champions League
+  - id: 3   # Europa League
+world_cup:
+  - id: 1   # World Cup
+qualifiers:
+  - id: 8   # UEFA Qualifiers
