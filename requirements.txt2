@@ -1,0 +1,11 @@
+pandas==2.2.0
+numpy==1.26.0
+scikit-learn==1.4.0
+xgboost==2.0.0
+lightgbm==4.1.0
+tensorflow==2.15.0 (for RL optimizer)
+joblib==1.3.0
+streamlit==1.29.0
+requests==2.31.0
+python-dotenv==1.0.0
+SQLAlchemy==2.0.0
