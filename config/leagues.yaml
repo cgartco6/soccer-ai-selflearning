@@ -14,3 +14,7 @@ world_cup:
   - id: 1   # World Cup
 qualifiers:
   - id: 8   # UEFA Qualifiers
+men:
+  - 39
+women:
+  - 42
