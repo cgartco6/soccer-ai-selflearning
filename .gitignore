@@ -1,7 +1,12 @@
 .env
 data/*.db
+data/*.json
+data/backtests/*.csv
 models/*.pkl
+logs/*.log
 __pycache__/
-logs/
 *.pyc
 .DS_Store
+venv/
+.venv/
+*.ipynb_checkpoints/
